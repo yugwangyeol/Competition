@@ -25,10 +25,10 @@
 <br/>
 
 ## 4. 프로젝트 소개
-
-**[본선]**  
+ 
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 위성 이미지에서 건물을 segmentation 하는 프로젝트를 진행하였다. 기본 Segment 모델과 항공/위성 segment에 특화된 모델을 사용하였다. Segmentation 모델은 **SAM, YOLOV8**과 같은 모델을 사용하였다. 항공.위성 특화 모델로는 **building-foot-print model**을 기본으로 사용하였다.
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp; 대회 진행을 위해 다양한 전처리 기법과 데이터 augmentation 기법을 시도하였다. 그러나 대회 특성상 방대한 데이터와 제한된 자원으로 인해 많은 실험을 진행하지 못하였다.
 
 <br/>
