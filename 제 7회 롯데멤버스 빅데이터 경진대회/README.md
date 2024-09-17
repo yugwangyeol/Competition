@@ -59,4 +59,4 @@
 
 ## 7. 발표 자료&참고 자료
 
-[제 7회 롯데멤버스 빅데이터 경진대회]()
+[제 7회 롯데멤버스 빅데이터 경진대회](https://github.com/yugwangyeol/Competition/blob/main/%EC%A0%9C%207%ED%9A%8C%20%EB%A1%AF%EB%8D%B0%EB%A9%A4%EB%B2%84%EC%8A%A4%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EB%A1%9C%ED%8B%B0%EB%A1%9C%EB%A6%AC.pdf)
